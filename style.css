@@ -158,3 +158,11 @@ img{
   height: 30px;
   width: 30px;
 }
+
+.navbar{
+  background-color: white;
+  transition: background-color;
+  transition-duration: 1sec;
+}
+.navbar:hover{
+  background-color: black;
