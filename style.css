@@ -159,10 +159,10 @@ img{
   width: 30px;
 }
 
-.navbar{
+.title{
   background-color: white;
   transition: background-color;
   transition-duration: 1sec;
 }
-.navbar:hover{
+.title:hover{
   background-color: black;
