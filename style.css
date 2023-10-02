@@ -162,6 +162,7 @@ img{
 .title{
   background-color: white;
   transition: background-color;
+  {
   transition-duration: 1sec;
 }
 .title:hover{
